@@ -1,6 +1,6 @@
-# DynamInc
+# DynamInk
 
-> **DynamInc reads you while you read** - our AI instantly adapts text complexity, highlights what matters, and personalizes every paragraph based on your unique reading patterns. Reading reimagined.
+> **DynamInk reads you while you read** - our AI instantly adapts text complexity, highlights what matters, and personalizes every paragraph based on your unique reading patterns. Reading reimagined.
 
 ## ✨ Features
 
