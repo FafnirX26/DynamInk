@@ -24,7 +24,7 @@ cd backend
 python -m venv bookplusai
 source bookplusai/bin/activate  # On Windows: bookplusai\Scripts\activate
 pip install -r requirements.txt
-python -m uvicorn main:app --reload --port 8000
+python run.py
 ```
 
 ### Frontend Setup
@@ -70,7 +70,7 @@ View detailed statistics including:
 
 ```bash
 # Run backend
-cd backend && python -m uvicorn main:app --reload --port 8000
+cd backend && python run.py
 
 # Run frontend  
 cd frontend && npm run dev
